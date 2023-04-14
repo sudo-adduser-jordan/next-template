@@ -33,3 +33,18 @@
 
 
 }
+
+@media (max-width: 800px) {
+    .topContainer {
+      grid-template-columns: 1fr 1fr;
+    }
+    .column1 {
+      padding-left: 25px;
+    }
+    .column2 {
+      display: none;
+    }
+    .column3 {
+      margin-right: 10%;
+    }
+  }

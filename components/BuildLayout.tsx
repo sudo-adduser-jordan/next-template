@@ -4,6 +4,7 @@ import styles from '@/components/styles/Top.module.css'
 
 // routing
 import Top from './layout/Top'
+import Content from './layout/Content'
 import Footer from './layout/Footer'
 
 
@@ -12,6 +13,7 @@ export default function Home() {
   return (
     <>
     <Top />
+    <Content />
     <Footer />
     </>
   )
