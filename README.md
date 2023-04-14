@@ -2,7 +2,6 @@
 
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?)](https://github.com/RichardLitt/standard-readme)
 
-A starting point for a Next.js website with a layout and components.
 
 ## Table of Contents
 
@@ -12,7 +11,7 @@ A starting point for a Next.js website with a layout and components.
 
 ## Background
 
-Some boilerplate.
+A starting point for a Next.js website with a layout and components.
 
 ## Install
 
