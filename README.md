@@ -11,7 +11,7 @@
 
 ## Background
 
-A starting point for a Next.js website with a layout and components.
+A starting point for a responsive Next.js website with a layout and components.
 
 ## Install
 
