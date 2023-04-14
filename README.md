@@ -4,6 +4,8 @@
 
 <img src="https://github.com/sudo-adduser-jordan/next-template/blob/main/next-template.png">
 
+Moblie Screenshot Goes Here]
+
 ## Table of Contents
 
 - [Background](#background)
