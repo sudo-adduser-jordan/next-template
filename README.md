@@ -4,7 +4,7 @@
 
 <img src="https://github.com/sudo-adduser-jordan/next-template/blob/main/next-template.png">
 
-[Moblie Screenshot Goes Here]
+<img src="https://github.com/sudo-adduser-jordan/next-template/blob/main/next-template-moblie.png">
 
 ## Table of Contents
 
